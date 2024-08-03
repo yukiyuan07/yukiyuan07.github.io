@@ -3,11 +3,11 @@
   <title>Yuki的blog~</title>
   
   
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://yukiyuan07.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="https://yukiyuan07.github.io/"/>
   <updated>2024-08-03T10:06:36.078Z</updated>
-  <id>http://example.com/</id>
+  <id>https://yukiyuan07.github.io/</id>
   
   <author>
     <name>Yuki</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>我的第一篇博客</title>
-    <link href="http://example.com/2024/08/03/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/"/>
-    <id>http://example.com/2024/08/03/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</id>
+    <link href="https://yukiyuan07.github.io/2024/08/03/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/"/>
+    <id>https://yukiyuan07.github.io/2024/08/03/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</id>
     <published>2024-08-03T09:50:09.000Z</published>
     <updated>2024-08-03T10:06:36.078Z</updated>
     
@@ -34,14 +34,14 @@
     
     
     
-    <category term="测试" scheme="http://example.com/tags/%E6%B5%8B%E8%AF%95/"/>
+    <category term="测试" scheme="https://yukiyuan07.github.io/tags/%E6%B5%8B%E8%AF%95/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/2024/08/03/hello-world/"/>
-    <id>http://example.com/2024/08/03/hello-world/</id>
+    <link href="https://yukiyuan07.github.io/2024/08/03/hello-world/"/>
+    <id>https://yukiyuan07.github.io/2024/08/03/hello-world/</id>
     <published>2024-08-03T09:20:54.973Z</published>
     <updated>2024-08-03T09:20:54.973Z</updated>
     
